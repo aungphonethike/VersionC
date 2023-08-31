@@ -3,5 +3,6 @@ class Gohigh{
 	public static void main(String[] args) {
 		System.out.println(a);
 		System.out.println("My name is " + a );
+		System.out.println("This is " + a);
 	}
 }
